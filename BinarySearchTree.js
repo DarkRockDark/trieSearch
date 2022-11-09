@@ -115,8 +115,6 @@ class BinarySearchTree {
             console.log(node.data);
             this.inorder(node.right);
             // console.log(node.right);
-        } else {
-            // console.log('no data inorder');
         }
     }
     preorder(node) {
