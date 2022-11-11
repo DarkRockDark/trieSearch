@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/BinarySearchTree.js"
+            "program": "${workspaceFolder}/TrieSearchTree.js"
         }
     ]
 }
